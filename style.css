@@ -1,0 +1,126 @@
+body{
+    background-color: rgb(32, 32, 32);
+    background-image: linear-gradient(to bottom right, rgb(36, 36, 63), rgb(0, 0, 0));
+    font-family: cursive;
+}
+.nazev{
+    color: rgb(255, 153, 0);
+    font-size: 200%;
+    text-align: center;
+    background-color: rgb(119, 38, 1);
+}
+.nig{
+    display: flex;
+    justify-content: center;  
+}
+.uv{
+    font-family: 'Franklin Gothic Medium';
+    margin-top: 6%;
+    background-color:rgb(161, 161, 161);
+    font-size: 140%;
+    border: 4px solid black;
+}
+.rv{
+    display: flex;
+    flex-direction: row;
+    background-color:rgb(131, 50, 97);
+    border: 4px solid black;
+}
+.rv1{
+    margin-top:55px;
+    margin-left: 50px;
+}
+.fetaci{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.rk{
+    height: 60px;
+    position: sticky;
+    top: 1px;
+    align-items: center;
+    display: flex;
+    flex-direction:row;
+    justify-content: space-evenly;
+    background-color: rgb(224, 76, 39);
+    border: 6px solid rgb(114, 0, 0);
+}
+a{
+    text-decoration: none;
+    color: rgb(255, 153, 0);
+}
+.takovy{
+    margin-top: 3%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    font-size: 140%;
+}
+.sw{
+    display: flex;
+    flex-direction: row;
+    margin-left: 20%;
+    margin-right: 10%;
+    margin-top: 3%;
+    background-color: aqua;
+    border: 4px solid black;
+    font-size: 140%;
+}
+.sw2{
+    margin-left: 60px;
+    margin-top: 55px;
+}
+.cp{
+    background-color: aliceblue;
+    border: 4px solid black;
+}
+.pp{
+    margin-left: 30%;
+    height: 44px;
+    width: 40%;
+    align-items: center;
+    display: flex;
+    flex-direction:row;
+    justify-content: center;
+    margin-top: 6%;
+    background-color:rgb(185, 0, 0);
+    font-size: 140%;
+    border: 10px solid black;
+}
+
+.fotkus{
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    font-size: 240%;
+}
+.mcs{
+    border: 7px solid white;
+    background-color: rgb(32, 32, 32);
+    background-image: linear-gradient(to bottom left, rgb(65, 65, 65), rgb(170, 170, 170));
+}
+.fetakove{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+.evl{
+    margin-top: 10%;
+    border: 7px solid black;
+    background-color: blue;
+    background-image: linear-gradient(to right, rgb(37, 17, 151), rgb(150, 3, 3));
+}
+.evoluce{
+    justify-content: center;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+.gp{
+    display: flex;
+    flex-direction: row;
+}
+.prib{
+    display: flex;
+    flex-direction: row;
+}
